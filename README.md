@@ -17,14 +17,14 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo]()
+![Portfolio Demo](https://i.postimg.cc/NjYd2yb5/Portfolio.png)
 
 ---
 
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**]()
+[**Live Demo**](https://portfolio-sachit-kumars-projects-ac472f27.vercel.app/)
 ---
 ### 🎯 Project Structure
 ```bash

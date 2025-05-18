@@ -10,20 +10,20 @@ const projects = [
     description:
       "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
     src: "tree.jpg",
-    link: "",
+    link: "https://i.postimg.cc/NjYd2yb5/Portfolio.png",
     color: "#8f89ff",
-    githubLink: "",
-    liveLink: "",
+    githubLink: "https://github.com/Sachi11123/Portfolio.git",
+    liveLink: "https://portfolio-sachit-kumars-projects-ac472f27.vercel.app/",
   },
   {
-    title: "🚀 ",
+    title: "🚀Event Manager ",
     description:
-      "🚀  💻✨",
+      "🚀In college, various clubs organize events throughout the year. Typically, information about these events is shared via WhatsApp groups.It would be helpful to have a website where all the events and related information could be stored. This would make it easier for students to find relevant information about ongoing, past, or upcoming events. Such a website would benefit both students and college clubs.  💻✨",
     src: "water.jpg",
-    link: "",
+    link: "https://i.postimg.cc/PqYc1zhn/Event.png",
     color: "#fff",
-    githubLink: "",
-    liveLink: "",
+    githubLink: "https://github.com/Sachi11123/Event_Manager.git",
+    liveLink: "https://event-manager-nine-phi.vercel.app/",
   },
   {
     title: "Home Theatre 🔥",
@@ -34,6 +34,16 @@ const projects = [
     color: "#ed649e",
     githubLink: "https://github.com/Sachi11123/Home_theatre",
     liveLink: "home-theatre.vercel.app/",
+  },
+  {
+    title: "AskG 🔥",
+    description:
+      "AskG is your go-to destination for finding information on any topic with ease. Whether you're looking for answers to specific questions, exploring new interests, or conducting research, Askg allows you to search effortlessly by typing your queries. 💻✨",
+    src: "house.jpg",
+    link: "https://i.postimg.cc/tCFrgd3K/Askg.png",
+    color: "#ed649e",
+    githubLink: "https://github.com/Sachi11123/AskG.git",
+    liveLink: "ask-g.vercel.app",
   },
 ];
 
