@@ -15,24 +15,24 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: "Bachelor of Engineering",
+      school: "Chandigarh University",
       mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      year: "2021-2025",
+      achievements: ["GPA: 7.09"],
+      skills: ["Data Structure & Algorithm", "DBMS", "C++", ],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+        "Gained a strong foundation in computer science and software engineering principles with a focus on problem-solving using Data Structures and Algorithms.",
     },
     {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
+      degree: "Intermediate",
+      school: "Tiny Scholars School",
       mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
+      year: "2018-2020",
+      achievements: ["CGPA: 7.4", "Subject: Non-Medical"],
+      skills: ["Physics", "Chemistry", "Math" ],
       description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+        "Built a solid foundation in core science subjects with an emphasis on analytical reasoning, problem-solving, and conceptual understanding.",
     },
   ];
 
